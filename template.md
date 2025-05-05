@@ -2,27 +2,27 @@
 
 
 ## Dialogue
-A : 
-B : 
-A : 
-B : 
-A : 
-B : 
-A : 
-B : 
-A : 
+A :  \
+B :  \
+A :  \
+B :  \
+A :  \
+B :  \
+A :  \
+B :  \
+A :  \
 B : 
 
 ## Dialogue (해석)
-A : 
-B : 
-A : 
-B : 
-A : 
-B : 
-A : 
-B : 
-A : 
+A :  \
+B :  \
+A :  \
+B :  \
+A :  \
+B :  \
+A :  \
+B :  \
+A :  \
 B : 
 
 ## Language Takeaway
